@@ -3,6 +3,7 @@
  # Setup
  
  Run the following command to launch the application : 
- 1. mvn clean install (see case test results in terminal)
- 2. copy the jar file somewhere and execute it using java -jar Partition.jar
+ 1. Clone the project : git clone https://github.com/lassaad-neji/adneom.git
+ 2. cd adneom && mvn clean install
+ 3. cd target && java -jar Partition.jar to execute the application
  
